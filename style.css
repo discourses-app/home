@@ -7,6 +7,7 @@ body {
 .pic {
     float: right;
     height: 700px;
+    margin-top: 12px;
 }
 
 .logo {
@@ -60,4 +61,19 @@ body {
     /* border-color: rgb(255, 236, 212); */
     box-shadow: none;
     border-style: hidden;
+}
+
+input[type=email]:focus {
+    border: 3px solid #1c3a56;
+    outline: aquamarine;
+  }
+
+.about {
+    color: #1c3a56;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 100px;
+    display: inline-block;
+    float: right;
+    font-size: large;
 }
