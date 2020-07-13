@@ -77,3 +77,26 @@ input[type=email]:focus {
     float: right;
     font-size: large;
 }
+
+.head {
+    text-align: center;
+    color: #1c3a56;
+    margin-top: 30px;
+}
+
+.card {
+    /*height: 50px;*/ /*use this for I LIKE THIS*/
+    display: inline-block;
+    margin-right: 5.7rem;
+    margin-left: 6.0rem;
+    border-radius: 25px;
+}
+
+.smol {
+    font-size: medium;
+}
+
+.round {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
