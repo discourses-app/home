@@ -100,3 +100,7 @@ input[type=email]:focus {
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
 }
+
+.down {
+    padding-bottom: 3px;
+}
