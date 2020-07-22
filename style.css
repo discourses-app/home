@@ -1,6 +1,6 @@
 body {
     background-color: #F2EFDF;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Nunito Sans', sans-serif;
     color: #1c3a56;
 }
 
@@ -11,23 +11,23 @@ body {
 
 .logo {
     float: left;
-    margin-top: 5px;
+    margin-top: 11px;
     /* margin-top: 20px;
     margin-left: 20px; */
 }
 
 .marg {
-    margin-top: 3rem;
-    margin-left: 7rem;
+    margin-top: 1.7rem;
+    margin-left: 4.0rem;
 }
 
 .lucida {
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Nunito Sans', sans-serif;
     font-size: x-large;
 }
 
 .human {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 .btn {
@@ -52,12 +52,13 @@ body {
     padding-top: 7px;
     padding-bottom: 7px;
     padding-left: 12px;
+    font-weight: bold;
     /*border-color: rgb(255, 236, 212);*/
 }
 
 ::placeholder {
     color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 .nobrdr {
@@ -132,7 +133,7 @@ footer {
 }
 
 .icon {
-    margin-top: 18px;
+    margin-top: 15px;
     margin-left: 20px;
 }
 
